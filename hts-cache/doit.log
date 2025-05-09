@@ -1,0 +1,8 @@
+https://kalyanorders.co.uk/ -O /Users/venkat.kotu/ulavacharu +*.kalyanorders.co.uk/* -v
+File generated automatically on Thu, 08 May 2025 16:57:00, do NOT edit
+
+To update a mirror, just launch httrack without any parameters
+The existing cache will be used (and modified)
+To have other options, retype all parameters and launch HTTrack
+To continue an interrupted mirror, just launch httrack without any parameters
+
